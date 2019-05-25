@@ -1,0 +1,15 @@
+{
+ "folders":
+ [
+  {
+  "follow_symlinks": true,
+  "path": "Assets/Scripts",
+   "file_exclude_patterns":
+   [
+    "*.dll",
+    "*.meta"
+   ]
+  }
+ ],
+ "solution_file": "./unity-game-2019-1.sln"
+}
